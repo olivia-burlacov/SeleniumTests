@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace TestProject1
 {
-    public class Tests
+    public class ProjectPlanTests
     {
         [Test]
         public void Test1()

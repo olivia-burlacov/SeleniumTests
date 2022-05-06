@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U2xbovMtU4pMoMqB86Ub+oxezvbG9CqfU+ZGLGucpNapKdyHFPYUDiEUE5HFrH+E8lZwqDNlSau6DRH25gquaA==",
+  "dgSpecHash": "5ZutZ/OzGRb4hEE6mfL+xciNg/l6s44pDS36v9ilM08lbUBNn4eS8A99gusuK6aoKIJkp6vBQcTIjpX2XmmgaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Source\\Repos\\SeleniumTests\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\SeleniumTests\\Selenium1\\Selenium1\\Selenium1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

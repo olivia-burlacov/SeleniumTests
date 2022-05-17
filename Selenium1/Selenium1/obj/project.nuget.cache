@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZutZ/OzGRb4hEE6mfL+xciNg/l6s44pDS36v9ilM08lbUBNn4eS8A99gusuK6aoKIJkp6vBQcTIjpX2XmmgaA==",
+  "dgSpecHash": "pIvizbiPxJ5qnSWOcVDj+M31z1CuNzKklX3kcDjMIzLD1/jFfUf2G0ntemT1ien0Ieugj9xHZ2gB57Fr/eFGQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\SeleniumTests\\Selenium1\\Selenium1\\Selenium1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
